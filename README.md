@@ -1,7 +1,7 @@
 Page 1: Overview and Purpose of the Repository
 
 Introduction
-The BankAcountRandomAPI repository, maintained by Abdiabera, provides a backend API for generating random bank account details. This type of service can be useful 
+The BankAcountRandomAPI provides a backend API for generating random bank account details. This type of service can be useful 
 for software testing, demo environments, or educational purposes where realistic but non-sensitive financial data is needed.
 
 General Structure of the src Directory
